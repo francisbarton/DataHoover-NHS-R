@@ -39,3 +39,6 @@ My presentation will show:
  * how we hope the package will become more widely used.
 
 DataHoover: _it might just blow you away!_
+
+![CikVgaqWkAA1zjh](https://github.com/francisbarton/DataHoover-NHS-R/assets/1819920/f1d05054-cd4b-468c-b258-9749e0deb00c)
+
